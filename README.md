@@ -1,4 +1,4 @@
-# Tugas 1 - Implementasi Antrean (Queue) Menggunakan Dart
+# Implementasi Antrean (Queue) Menggunakan Dart
 
 **Nama:** Talitha Maharani Nashier 
 **NIM:** H1D024098
